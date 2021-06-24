@@ -1,0 +1,3 @@
+[submodule ".github"] 
+  path = .github
+  url = https://github.com/Azure-Samples/serverless-full-stack-apps-azure-sql.git
